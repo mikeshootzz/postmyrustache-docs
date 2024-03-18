@@ -4,6 +4,7 @@ repo_name: PostMyRustache
 site_url: https://postmyrustache.dev
 theme:
   name: material
+  logo: assets/logo.png
   icon:
     repo: material/github
   font:
