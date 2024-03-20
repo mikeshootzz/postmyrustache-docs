@@ -2,6 +2,10 @@
 
 > A Rust-Powered MySQL-to-PostgreSQL Translation Layer
 
+!!! warning
+
+    This project is still under heavy development and is not ready for production use, nor does it have a stable release.
+
 <p align="center">
   <a><img src="assets/logo.png" alt="postmyrustage logo" width="80%"></a>
 </p>
