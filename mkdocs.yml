@@ -3,8 +3,11 @@ repo_url: https://github.com/mikeshootzz/PostMyRustache
 repo_name: PostMyRustache
 site_url: https://postmyrustache.dev
 theme:
+  features:
+    - navigation.tabs
   name: material
   logo: assets/logo.png
+  favicon: assets/logo.png
   icon:
     repo: material/github
   font:
